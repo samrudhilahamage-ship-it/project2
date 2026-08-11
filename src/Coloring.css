@@ -1,0 +1,111 @@
+.HSC{
+    display: flex;
+    justify-content: space-evenly;
+    color: burlywood;
+}
+.aa{
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(3, 53, 36);
+    color: aliceblue;
+}
+p{
+    padding: 20px;
+    color: black;
+    justify-content: space-between;
+    color: aliceblue;
+    font-size: 20px;
+}
+.b{
+    background-color: burlywood;
+    height: 40px; width: 100px;
+}
+img{
+    height: 300px; width: 400px;
+    margin-bottom: 50px;
+    margin-top: 0ch;
+
+}
+.i{
+    display: flex;
+    margin-left: 900px;
+    margin-top: -80px;
+    top: 500px;
+}
+.t{
+   display: flex; 
+   justify-content: space-around;
+}
+.s{
+    display: flex;
+    justify-content: space-between;
+           background-color: rgb(3, 53, 36);
+
+}
+.ii{ 
+    height: 100px;
+    width: 100px;
+background-color: rgb(22, 13, 13);
+align-items: center;
+}
+.iii{
+    height: 100px;
+    width: 100px;
+background-color: rgb(12, 6, 6);
+align-items: center;
+}
+.iiii{
+    height: 100px;
+    width: 100px;
+background-color: rgb(12, 7, 7);
+align-items: center;
+}
+.back{
+    background-color: rgb(78, 155, 129);
+}
+.cc{
+       background-color: rgb(3, 53, 36);
+       color: aliceblue;
+
+}
+.ss{
+           background-color: rgb(3, 53, 36);
+
+}
+table{
+           background-color: rgb(3, 53, 36);
+
+}
+.d{
+    display: flex;
+    justify-content: space-between;
+}
+.l{
+    margin-left: 200px;
+    font-size: large;
+    display: flex;
+    justify-content: space-between;
+}
+textarea{
+    height: 50px; width: 500px;
+}
+.add{
+    height: 50px; width: 50px;
+}
+.par{
+    display: flex;
+}
+.ad{
+    color: aliceblue;
+}
+.la{
+    margin-right: 300px;
+    padding: 100px;
+}
+h1{
+    margin-left: 20px;
+    color: aliceblue;
+}
+center{
+    color: aliceblue;
+}
